@@ -2,7 +2,7 @@
 
 Submitted by: Derrick Woodzll
 
-**Name of your app** is an app that ... [TODO] 
+Trivia is an app that displays a question and 4 choices. For this initial part of the project, you will focus on creating the UI to display the prompt and buttons to select an answer. 
 
 Time spent: 20 hours spent in total
 
@@ -10,9 +10,9 @@ Time spent: 20 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can view the current question and 4 different answers
-- [ ] User can view the next question after tapping an answer
-- [ ] User can answer at least 3 different questions
+- [X] User can view the current question and 4 different answers
+- [X] User can view the next question after tapping an answer
+- [X] User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
