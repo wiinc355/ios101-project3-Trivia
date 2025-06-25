@@ -28,10 +28,16 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+YouTube Message - 24 June 2025 - Watch Video
+<div>
+    <a href="https://youtu.be/tIGpKq7_un0"> 
+      <p>YouTube Message - 24 June 2025 - Watch Video</p>
+    </a>
+    <a href="https://youtu.be/tIGpKq7_un0">
+      <img style="max-width:300px;" src="ios101-project3-Trivia-My-Walkthrough.gif">
+    </a>
+  </div>
+  
 ## Notes
 
 Describe any challenges encountered while building the app.
