@@ -1,10 +1,10 @@
-# Project 3 - Trivia
+# Project 3 - Quiz Game
 
-Submitted by: Derrick Woodzll
+Submitted by: Derrick Woodall
 
-Trivia is an app that displays a question and 4 choices. For this initial part of the project, you will focus on creating the UI to display the prompt and buttons to select an answer. 
+Quiz Game is a sleek, Swift‑based iPhone app featuring an animated start screen that transitions into an interactive multiple‑choice quiz. Users select answers to timed questions, enjoy smooth animations between screens, and receive instant feedback—all wrapped in an intuitive, polished interface.
 
-Time spent: 20 hours spent in total
+Time spent: 35 hours spent in total
 
 ## Required Features
 
@@ -27,7 +27,6 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
 YouTube Message - 24 June 2025 - Watch Video
 <div>
     <a href="https://youtu.be/tIGpKq7_un0"> 
@@ -37,10 +36,10 @@ YouTube Message - 24 June 2025 - Watch Video
       <img style="max-width:300px;" src="ios101-project3-Trivia-My-Walkthrough.gif">
     </a>
   </div>
-  
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
